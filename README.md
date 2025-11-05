@@ -1,0 +1,2 @@
+# UP-covid--19-Death-Analysis
+The COVID-19 Death Analysis Based on Age and States project focuses on studying the impact of the COVID-19 pandemic across different demographic and geographical segments. The primary objective of this analysis is to understand how death rates varied among different age groups and states, and to identify the key factors influencing these variations
